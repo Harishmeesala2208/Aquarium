@@ -47,7 +47,7 @@ This is a web based application developed for health related lifestyle based web
 
 
 
-### Healthbot
+### Healthbot -
 ![HO6](https://user-images.githubusercontent.com/123392099/214322482-2e715989-c199-47dc-9487-a241efbf13be.png)
 
 
