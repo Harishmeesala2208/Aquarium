@@ -8,7 +8,7 @@ This is a web based application developed for health related lifestyle based web
 
 * Project Link URL * - https://black-cliff-074a2b900.2.azurestaticapps.net
 
-* Project Demo Video URL * - 
+* Project Demo Video URL * - https://youtu.be/IOGWBldY-1o
 
 ## Features and Functionalities 😃
 
