@@ -23,7 +23,9 @@ This is a web based application developed for health related lifestyle based web
 
 ### Home - 
 ![H01](https://user-images.githubusercontent.com/123392099/214321732-c9620c30-e055-4d2d-8afa-89089e1de94d.png)
+
 ![H02](https://user-images.githubusercontent.com/123392099/214321829-187ce113-5ec8-413a-af13-c023e05c8e6f.png)
+
 
 
 
@@ -32,18 +34,23 @@ This is a web based application developed for health related lifestyle based web
 
 
 
+
 ### Services - 
 ![H04](https://user-images.githubusercontent.com/123392099/214321974-aee903e5-a6aa-4001-ba45-d0dc8a6f8ff2.png)
 
 
 
-### Contact - 
+
+### Contact us - 
 ![H05](https://user-images.githubusercontent.com/123392099/214322070-92f252c5-bb9c-4f43-849b-a95039a3984a.png)
+
 
 
 
 ### Healthbot
 ![HO6](https://user-images.githubusercontent.com/123392099/214322482-2e715989-c199-47dc-9487-a241efbf13be.png)
+
+
 
 
 ### Static web apps
